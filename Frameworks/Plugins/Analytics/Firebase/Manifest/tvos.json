@@ -5,7 +5,7 @@
     "modules": []
   },
   "dependency_repository_url": [],
-  "platform": "ios",
+  "platform": "tvos",
   "author_name": "Anton Kononenko",
   "author_email": "a.kononenko@applicaster.com",
   "manifest_version": "0.1.0",
